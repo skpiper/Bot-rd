@@ -10,7 +10,13 @@ Bot Encendido Cliente ${client.user.tag},
 creado por !̷ ̷B̷Y̷ ̷D̷A̷r̷s̷#4026 listo para la accion 
   `)
   console.log(`
-by dars
+_________________________
+||.                     
+||.        made          
+||.         By             
+||.   !̷ ̷B̷Y̷ ̷D̷A̷r̷s̷#4026       
+||.
+||_______________________
 `)
 
 
